@@ -1,7 +1,7 @@
 - 👋 I’m Dr Patrick Toche, Github handle @drtoche
-- 👀 I’m interested in Data, Economics, Econometrics
-- 🌱 I’m currently at California State University at Fullerton
-- 💞️ I’m mainly interested in Python, R, and Julia
+- 👀 I’m a data scientist
+- 🌱 I teach several courses at CalState Fullerton
+- 💞️ I’m mainly interested in Julia, Python, and R
 - 📫 ptoche@fullerton.edu
 
 <!---
